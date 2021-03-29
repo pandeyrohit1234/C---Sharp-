@@ -1,0 +1,8 @@
+C:\training\tdd\tddDemo\Calculator\bin\Debug\netstandard2.0\CalculatorLib.deps.json
+C:\training\tdd\tddDemo\Calculator\bin\Debug\netstandard2.0\CalculatorLib.dll
+C:\training\tdd\tddDemo\Calculator\bin\Debug\netstandard2.0\CalculatorLib.pdb
+C:\training\tdd\tddDemo\Calculator\obj\Debug\netstandard2.0\CalculatorLib.AssemblyInfoInputs.cache
+C:\training\tdd\tddDemo\Calculator\obj\Debug\netstandard2.0\CalculatorLib.AssemblyInfo.cs
+C:\training\tdd\tddDemo\Calculator\obj\Debug\netstandard2.0\CalculatorLib.csproj.CoreCompileInputs.cache
+C:\training\tdd\tddDemo\Calculator\obj\Debug\netstandard2.0\CalculatorLib.dll
+C:\training\tdd\tddDemo\Calculator\obj\Debug\netstandard2.0\CalculatorLib.pdb

@@ -1,0 +1,13 @@
+C:\training\tdd\tddDemo\CalculatorLib\bin\Debug\netcoreapp3.1\CalculatorLib.exe
+C:\training\tdd\tddDemo\CalculatorLib\bin\Debug\netcoreapp3.1\CalculatorLib.deps.json
+C:\training\tdd\tddDemo\CalculatorLib\bin\Debug\netcoreapp3.1\CalculatorLib.runtimeconfig.json
+C:\training\tdd\tddDemo\CalculatorLib\bin\Debug\netcoreapp3.1\CalculatorLib.runtimeconfig.dev.json
+C:\training\tdd\tddDemo\CalculatorLib\bin\Debug\netcoreapp3.1\CalculatorLib.dll
+C:\training\tdd\tddDemo\CalculatorLib\bin\Debug\netcoreapp3.1\CalculatorLib.pdb
+C:\training\tdd\tddDemo\CalculatorLib\obj\Debug\netcoreapp3.1\CalculatorLib.csprojAssemblyReference.cache
+C:\training\tdd\tddDemo\CalculatorLib\obj\Debug\netcoreapp3.1\CalculatorLib.AssemblyInfoInputs.cache
+C:\training\tdd\tddDemo\CalculatorLib\obj\Debug\netcoreapp3.1\CalculatorLib.AssemblyInfo.cs
+C:\training\tdd\tddDemo\CalculatorLib\obj\Debug\netcoreapp3.1\CalculatorLib.csproj.CoreCompileInputs.cache
+C:\training\tdd\tddDemo\CalculatorLib\obj\Debug\netcoreapp3.1\CalculatorLib.dll
+C:\training\tdd\tddDemo\CalculatorLib\obj\Debug\netcoreapp3.1\CalculatorLib.pdb
+C:\training\tdd\tddDemo\CalculatorLib\obj\Debug\netcoreapp3.1\CalculatorLib.genruntimeconfig.cache
